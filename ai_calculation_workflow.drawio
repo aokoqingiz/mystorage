@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-15T07:04:51.289Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="vo6awQRQtwKbv4l3S22s" version="14.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T09:48:30.940Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="OlWcD6RbQmke-RfTKTeC" version="14.4.9" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="1359" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -112,7 +112,7 @@
         <mxCell id="uME0hAM4aX24SPmoG4YC-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E7qCEXml-a51oX7vlCE2-51" target="uME0hAM4aX24SPmoG4YC-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GINKurjGJZbwQ9dIIqyE-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="E7qCEXml-a51oX7vlCE2-51" target="E7qCEXml-a51oX7vlCE2-78">
+        <mxCell id="GINKurjGJZbwQ9dIIqyE-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="E7qCEXml-a51oX7vlCE2-51" target="E7qCEXml-a51oX7vlCE2-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E7qCEXml-a51oX7vlCE2-51" value="12.liver vessel segment" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -125,7 +125,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E7qCEXml-a51oX7vlCE2-53" value="13.liver vessel naming" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="297.5" y="600" width="100" height="60" as="geometry" />
+          <mxGeometry x="322.5" y="600" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E7qCEXml-a51oX7vlCE2-54" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="E7qCEXml-a51oX7vlCE2-51" target="E7qCEXml-a51oX7vlCE2-53" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -151,11 +151,11 @@
             <mxPoint x="570" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GINKurjGJZbwQ9dIIqyE-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="E7qCEXml-a51oX7vlCE2-61" target="E7qCEXml-a51oX7vlCE2-66">
+        <mxCell id="GINKurjGJZbwQ9dIIqyE-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="E7qCEXml-a51oX7vlCE2-61" target="E7qCEXml-a51oX7vlCE2-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E7qCEXml-a51oX7vlCE2-61" value="16.liver lesion instantiation" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="540" y="600" width="110" height="60" as="geometry" />
+          <mxGeometry x="535" y="600" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E7qCEXml-a51oX7vlCE2-62" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="E7qCEXml-a51oX7vlCE2-55" target="E7qCEXml-a51oX7vlCE2-61" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -170,7 +170,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E7qCEXml-a51oX7vlCE2-64" value="17. liver lesion projection" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="490" y="680" width="110" height="60" as="geometry" />
+          <mxGeometry x="430" y="680" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E7qCEXml-a51oX7vlCE2-65" value="" style="endArrow=classic;html=1;exitX=0.309;exitY=0.957;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="E7qCEXml-a51oX7vlCE2-61" target="E7qCEXml-a51oX7vlCE2-64" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -178,11 +178,11 @@
             <mxPoint x="570" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GINKurjGJZbwQ9dIIqyE-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E7qCEXml-a51oX7vlCE2-66" target="GINKurjGJZbwQ9dIIqyE-4">
+        <mxCell id="GINKurjGJZbwQ9dIIqyE-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E7qCEXml-a51oX7vlCE2-66" target="GINKurjGJZbwQ9dIIqyE-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E7qCEXml-a51oX7vlCE2-66" value="18.liver lesion diagnosis" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="614" y="680" width="100" height="60" as="geometry" />
+          <mxGeometry x="540" y="700" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E7qCEXml-a51oX7vlCE2-68" value="19.liver convex grading" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="500" width="100" height="60" as="geometry" />
@@ -229,11 +229,11 @@
             <mxPoint x="570" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GINKurjGJZbwQ9dIIqyE-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E7qCEXml-a51oX7vlCE2-78" target="GINKurjGJZbwQ9dIIqyE-4">
+        <mxCell id="GINKurjGJZbwQ9dIIqyE-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E7qCEXml-a51oX7vlCE2-78" target="GINKurjGJZbwQ9dIIqyE-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E7qCEXml-a51oX7vlCE2-78" value="21.liver spleen ratio calculation" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="297.5" y="720" width="112.5" height="70" as="geometry" />
+          <mxGeometry x="297.5" y="710" width="112.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="E7qCEXml-a51oX7vlCE2-79" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="E7qCEXml-a51oX7vlCE2-69" target="E7qCEXml-a51oX7vlCE2-78" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -254,9 +254,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uME0hAM4aX24SPmoG4YC-2" value="26.liver center line" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="414" y="600" width="100" height="60" as="geometry" />
+          <mxGeometry x="420" y="600" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GINKurjGJZbwQ9dIIqyE-4" value="25. liver calculation done" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="GINKurjGJZbwQ9dIIqyE-4" value="25. liver calculation done" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="430" y="810" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
