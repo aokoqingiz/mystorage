@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T10:08:59.595Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="1veZvcaiBSkzAJ0NA_h4" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T08:26:33.685Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="dOpgxQYUsjHywzXcvDhx" version="14.5.8" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
-    <mxGraphModel dx="1359" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1359" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,6 +91,9 @@
             <mxPoint x="570" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5_JmjyVL1ZinbIajblGN-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="E7qCEXml-a51oX7vlCE2-45" target="_9MSTqD4jc4uetIKMzi9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E7qCEXml-a51oX7vlCE2-45" value="10.liver phase detect" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="470" y="310" width="93.5" height="60" as="geometry" />
         </mxCell>
@@ -112,10 +115,10 @@
         <mxCell id="uME0hAM4aX24SPmoG4YC-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E7qCEXml-a51oX7vlCE2-51" target="uME0hAM4aX24SPmoG4YC-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_9MSTqD4jc4uetIKMzi9-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E7qCEXml-a51oX7vlCE2-51" target="E7qCEXml-a51oX7vlCE2-69">
+        <mxCell id="_9MSTqD4jc4uetIKMzi9-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E7qCEXml-a51oX7vlCE2-51" target="E7qCEXml-a51oX7vlCE2-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_9MSTqD4jc4uetIKMzi9-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E7qCEXml-a51oX7vlCE2-51" target="E7qCEXml-a51oX7vlCE2-53">
+        <mxCell id="_9MSTqD4jc4uetIKMzi9-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="E7qCEXml-a51oX7vlCE2-51" target="E7qCEXml-a51oX7vlCE2-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E7qCEXml-a51oX7vlCE2-51" value="12.liver vessel segment" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -127,7 +130,7 @@
             <mxPoint x="570" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_9MSTqD4jc4uetIKMzi9-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E7qCEXml-a51oX7vlCE2-53" target="E7qCEXml-a51oX7vlCE2-78">
+        <mxCell id="_9MSTqD4jc4uetIKMzi9-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="E7qCEXml-a51oX7vlCE2-53" target="E7qCEXml-a51oX7vlCE2-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E7qCEXml-a51oX7vlCE2-53" value="13.liver vessel naming" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -169,7 +172,7 @@
             <mxPoint x="570" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_9MSTqD4jc4uetIKMzi9-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="E7qCEXml-a51oX7vlCE2-64" target="E7qCEXml-a51oX7vlCE2-69">
+        <mxCell id="_9MSTqD4jc4uetIKMzi9-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="E7qCEXml-a51oX7vlCE2-64" target="E7qCEXml-a51oX7vlCE2-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E7qCEXml-a51oX7vlCE2-64" value="17. liver lesion projection" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -188,7 +191,7 @@
           <mxGeometry x="77.5" y="520" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E7qCEXml-a51oX7vlCE2-69" value="20.liver tdc calculation" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="730" width="100" height="60" as="geometry" />
+          <mxGeometry x="356.5" y="715" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E7qCEXml-a51oX7vlCE2-70" value="22.liver ct mr registration" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="490" width="100" height="60" as="geometry" />
@@ -229,8 +232,8 @@
         <mxCell id="uME0hAM4aX24SPmoG4YC-2" value="26.liver center line" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rotation=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="570" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_9MSTqD4jc4uetIKMzi9-1" value="&lt;span&gt;4.lung fracture&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="610" y="370" width="75" height="50" as="geometry" />
+        <mxCell id="_9MSTqD4jc4uetIKMzi9-1" value="&lt;span&gt;4.lung fracture&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="597.5" y="375" width="75" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
